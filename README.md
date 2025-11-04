@@ -1,6 +1,10 @@
 # IPL 2016 Analysis using R
 
-This project provides an end-to-end analysis of the 2016 Indian Premier League (IPL) season using ball-by-ball and match-level data.
+This project provides a comprehensive analytics study of the 2016 Indian Premier League (IPL) season using statistical methods and visualization techniques in R. Leveraging detailed match-level and ball-by-ball data sourced from Kaggle, the analysis highlights key batting and bowling performances, evaluates team outcomes, and measures player consistency throughout the tournament. This project demonstrates practical applications of data wrangling, exploratory data analysis, and sports performance modeling using real-world cricket data.
+
+# Dataset Source:
+Kaggle — IPL Ball-by-Ball & Match Data
+🔗 https://www.kaggle.com/datasets/manasgarg/ipl
 
 The goal of this analysis is to:
 - Identify top batsmen and bowlers
