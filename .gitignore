@@ -1,0 +1,19 @@
+# R and RStudio files
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+.Rapp.history
+
+# Mac/Windows junk files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.log
+
+# If you regenerate all outputs automatically, ignore generated data & plots:
+# Uncomment if needed
+# *.csv
+# figures/
